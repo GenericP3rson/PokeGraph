@@ -1,4 +1,4 @@
-SPECIES, IMAGE, WEIGHT, HEIGHT, TYPE, ABILITY
+SPECIES,IMAGE,WEIGHT,HEIGHT,TYPE,ABILITY
 bulbasaur, https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png, 69, 7, grass, overgrow
 bulbasaur, https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png, 69, 7, grass, chlorophyll
 bulbasaur, https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png, 69, 7, poison, overgrow
